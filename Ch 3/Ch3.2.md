@@ -1,6 +1,6 @@
 # Bases de la ramificación y merging
 Seguiremos un ejemplo de una linea de trabajo real
-## Ramiicación Basica
+## Ramificación Basica
 Primero digamos que estas trabajando en un pagina y ya hay `commits` en la rama `master`, quieres trabajar en el problema #53, para crear una nueva rama y cambiar a ella tienes que usar el comando `git checkout -b`
 ```
     $ git checkout -b iss53
