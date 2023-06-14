@@ -51,3 +51,6 @@ También puedes ver esto fácilmente con el comando `git log`. Si ejecutas `git 
 Dado que una rama en Git es en realidad un archivo simple que contiene el checksum SHA-1 de 40 caracteres del commit al que apunta, las ramas son fáciles de crear y eliminar. Crear una nueva rama es tan rápido y sencillo como escribir 41 bytes en un archivo (40 caracteres y un salto de línea).
 
 Esto contrasta enormemente con la forma en que la mayoría de las herramientas de control de versiones más antiguas crean ramas, que implica copiar todos los archivos del proyecto en un segundo directorio. Esto puede llevar varios segundos o incluso minutos, dependiendo del tamaño del proyecto, mientras que en Git el proceso siempre es instantáneo. Además, debido a que registramos los padres al hacer commit, encontrar una base adecuada para fusionar (merge base) se hace automáticamente y generalmente es muy fácil de hacer. Estas características ayudan a fomentar que los desarrolladores creen y utilicen ramas con frecuencia.
+
+Siguiente[Ch3/Ch3.2.md]
+Indice[README.md]

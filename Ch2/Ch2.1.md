@@ -41,3 +41,6 @@ Eso crea un directorio llamado libgit2, inicializa un directorio .git en su inte
 Ese comando hace lo mismo que el anterior, pero el directorio de destino se llama mylibgit.
 
 Git tiene varios protocolos de transferencia diferentes que puedes utilizar. El ejemplo anterior utiliza el protocolo https://, pero también puedes ver git:// o user@server:path/to/repo.git, que utiliza el protocolo de transferencia SSH.
+
+Siguiente[Ch2/Ch2.2.md]
+Indice[README.md]

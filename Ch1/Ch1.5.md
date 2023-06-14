@@ -60,3 +60,7 @@ Si deseas que se instale automaticamente haz
 ```
     $ git clone https://git.kernel.org/pub/scm/git/git.git
 ```
+
+Anterior[Ch1/Ch1.4.md]
+Siguiente[Ch1/Ch1.6.md]
+Indice[README.md]

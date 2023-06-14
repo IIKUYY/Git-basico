@@ -187,3 +187,7 @@ En el estado "detached HEAD" (cabeza desprendida), si realizas cambios y luego c
     $ git checkout -b version2 v2.0.0
     Switched to a new branch 'version2'
 ```
+
+Anterior[Ch2/Ch2.5.md]
+Siguiente[Ch2/Ch2.7.md]
+Indice[README.md]
