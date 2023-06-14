@@ -173,3 +173,7 @@ Por ejemplo, si quieres ver qué commits modificaron archivos de prueba en el hi
     51a94af - Fix "checkout --track -b newbranch" on detached HEAD
     b0ad11e - pull: allow "git pull origin $something:$current_branch" into an unborn branch
 ```
+
+Anterior[Ch2/Ch2.2.md]
+Siguiente[Ch2/Ch2.4.md]
+Indice[README.md]

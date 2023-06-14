@@ -21,3 +21,7 @@ El flujo de trabajo básico de Git es algo así:
 -Modificas archivos en tu árbol de trabajo.
 -Seleccionas de forma selectiva solo esos cambios que deseas incluir en tu próxima confirmación, lo cual agrega solo esos cambios al área de preparación.
 -Realizas una confirmación (commit), que toma los archivos tal como están en el área de preparación y almacena esa instantánea de forma permanente en tu directorio de Git.
+
+Anterior[Ch1/Ch1.2.md]
+Siguiente[Ch1/Ch1.4.md]
+Indice[README.md]

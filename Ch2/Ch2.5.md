@@ -126,3 +126,7 @@ $ git remote remove paul
 $ git remote
 origin
 ```
+
+Anterior[Ch2/Ch2.4.md]
+Siguiente[Ch2/Ch2.6.md]
+Indice[README.md]

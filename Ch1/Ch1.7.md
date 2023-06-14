@@ -18,3 +18,6 @@ usage: git add [<options>] [--] <pathspec>...
     -n, --dry-run               dry run
     -v, --verbose               be verbose
 ```
+
+Anterior[Ch1/Ch1.6.md]
+Indice[README.md]
