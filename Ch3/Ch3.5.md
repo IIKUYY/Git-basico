@@ -4,7 +4,7 @@ Las referencias remotas son apuntadores del repositorio remoto, puedes ver la li
 Estas toman las formas de `<remote>/<branch>` por ejemplo, si quieres ver el estado de `master` en `origin` debes revisar `<origin>/<master>`.
 Si mientras trabajas en una rama, alguien hace un cambio en esta en el remoto, la forma de sincronizar tu local con el remoto es correr `git fetch origin` este actualiza toda la información que este en el remoto que no este en tu local
 
-## Empujando
+## Push
 Para compartir una rama en un repositorio, debes hacer un `push` o empujar, esto porque el repositorio remoto no se sincroniza con el local automaticamente, si quieres empujar una rama debes usar el comando `git push <remote> <branch>` en un ejemplo, si quieres empujar la rama `serverfix`, se veria
 ```
     $ git push origin serverfix
@@ -71,7 +71,7 @@ se puede ver que algunas estan adelantadas pero otras estan atrasadas, para que 
     $ git fetch --all; git branch -vv
 ```
 
-## Jalando
+## Pull
 Una alternativa a `git fetch` es usar `git pull`, usar este comando lo que hace es una combinación de `fetch` y de `merge`, no siempre se usa porque puede causar confusión y es más sencillo usar estos dos por separado.
 
 ## Eliminar las ramas remotas
