@@ -111,6 +111,7 @@ Haciendolo:
     (use "git restore --staged <file>..." to unstage)
         renamed:    README.md -> README
 ```
-Anterior[Ch2/Ch2.3.md]
-Siguiente[Ch2/Ch2.5.md]
-Indice[README.md]
+
+[Anterior](Ch2.3.md)
+[Siguiente](Ch2.5.md)
+[Indice](README.md)

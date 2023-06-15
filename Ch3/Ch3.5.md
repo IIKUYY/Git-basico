@@ -83,6 +83,6 @@ Cuando todos acaben de usar una rama puedes borrar esta usando el comando `git p
 ```
 Esto lo que hace es eliminar el apuntador del servidor, Git mantiene la información hasta que hagan una `garbage collection` esto hace que sea facilmente recuperable
 
-Anterior[Ch3/Ch3.4.md]
-Siguiente[Ch3/Ch3.6.md]
-Indice[README.md]
+[Anterior](Ch2.4.md)
+[Siguiente](Ch2.6.md)
+[Indice](README.md)

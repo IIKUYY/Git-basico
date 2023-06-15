@@ -60,6 +60,6 @@ También puedes verificar cuál es el valor que Git asigna a una clave específi
     John Doe
 ```
 
-Anterior[Ch1/Ch1.5.md]
-Siguiente[Ch1/Ch1.7.md]
-Indice[README.md]
+[Anterior](Ch1.5.md)
+[Siguiente](Ch1.7.md)
+[Indice](README.md)

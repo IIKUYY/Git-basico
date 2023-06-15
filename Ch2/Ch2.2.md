@@ -298,6 +298,6 @@ Sin embargo, esto es equivalente a ejecutar algo como esto:
 ```
 Git deduce implícitamente que se trata de un cambio de nombre, por lo que no importa si renombras un archivo de esa manera o con el comando mv. La única diferencia real es que git mv es un solo comando en lugar de tres, es una función de conveniencia.
 
-Anterior[Ch2/Ch2.1.md]
-Siguiente[Ch2/Ch2.3.md]
-Indice[README.md]
+[Anterior](Ch2.1.md)
+[Siguiente](Ch2.3.md)
+[Indice](README.md)
