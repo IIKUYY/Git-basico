@@ -56,5 +56,5 @@ Hay argumentos de porque usar cada uno.
 Se usa merge para mantener un historial fiel el cual se puede revisar en cualquier momento para mantener la transparencia en el proyecto.
 En cambio se usa rebase para tener una idea más simple y clara de como se gestiono el proyecto y mantener una coherencia y crear un historial más facil de leer para futuros usuarios.
 
-Anterior[Ch3/Ch3.5.md]
-Indice[README.md]
+[Anterior](Ch2.5.md)
+[Indice](README.md)

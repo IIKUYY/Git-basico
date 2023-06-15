@@ -174,6 +174,6 @@ Por ejemplo, si quieres ver qué commits modificaron archivos de prueba en el hi
     b0ad11e - pull: allow "git pull origin $something:$current_branch" into an unborn branch
 ```
 
-Anterior[Ch2/Ch2.2.md]
-Siguiente[Ch2/Ch2.4.md]
-Indice[README.md]
+[Anterior](Ch2.2.md)
+[Siguiente](Ch2.4.md)
+[Indice](README.md)

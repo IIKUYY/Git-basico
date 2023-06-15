@@ -32,5 +32,5 @@ $ git last
         Signed-off-by: Scott Chacon <schacon@example.com>
 ```
 
-Anterior[Ch2/Ch2.6.md]
-Indice[README.md]
+[Anterior](Ch2.6.md)
+[Indice](README.md)

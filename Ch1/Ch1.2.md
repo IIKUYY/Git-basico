@@ -7,6 +7,6 @@ En 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y l
 -Totalmente distribuido
 -Capaz de manejar proyectos grandes como el kernel de Linux de manera eficiente (velocidad y tamaño de datos)
 
-Anterior[Ch1/Ch1.1.md]
-Siguiente[Ch1/Ch1.3.md]
-Indice[README.md]
+[Anterior](Ch1.1.md)
+[Siguiente](Ch1.3.md)
+[Indice](README.md)

@@ -8,5 +8,5 @@ Para poder colaborar con desarrolladores en otros sistemas se desarrollaron los 
 ## Versión Distribuida (DVCS)
 En los Sistemas de Control de Versiones Distribuidos, los clientes no solo obtienen la última instantánea de los archivos, sino que reflejan completamente el repositorio, incluyendo su historial completo. Por lo tanto, si un servidor falla y estos sistemas estaban colaborando a través de ese servidor, cualquier repositorio de cliente puede ser copiado de vuelta al servidor para restaurarlo. Cada clon es realmente una copia de seguridad completa de todos los datos. muchos de estos sistemas manejan bastante bien la posibilidad de tener varios repositorios remotos con los que pueden trabajar, lo que te permite colaborar con diferentes grupos de personas de diferentes maneras simultáneamente dentro del mismo proyecto.
 
-Siguiente[Ch1/Ch1.2.md]
-Indice[README.md]
+[Siguiente](Ch1.1.md)
+[Indice](README.md)
