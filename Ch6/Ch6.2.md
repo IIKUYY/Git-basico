@@ -182,4 +182,4 @@ Este acercamiento es util y más eficiente, pero tiene sus defectos, porque git 
 
 [Anterior](Ch6.1.md)
 [Siguiente](Ch6.3.md)
-[Indice](README.md)
+[Indice](Ch6/Indice.md)

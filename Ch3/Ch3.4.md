@@ -13,4 +13,4 @@ Una ventaja de estas, es que puedes trabajar en multiples al mismo tiempo, enton
 
 [Anterior](Ch2.3.md)
 [Siguiente](Ch2.5.md)
-[Indice](README.md)
+[Indice](Ch3/Indice.md)

@@ -20,4 +20,4 @@ usage: git add [<options>] [--] <pathspec>...
 ```
 
 [Anterior](Ch1.6.md)
-[Indice](README.md)
+[Indice](Ch1/Indice.md)

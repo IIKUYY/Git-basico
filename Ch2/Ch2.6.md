@@ -190,4 +190,4 @@ En el estado "detached HEAD" (cabeza desprendida), si realizas cambios y luego c
 
 [Anterior](Ch2.5.md)
 [Siguiente](Ch2.7.md)
-[Indice](README.md)
+[Indice](Ch2/Indice.md)
