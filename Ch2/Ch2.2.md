@@ -300,4 +300,4 @@ Git deduce implícitamente que se trata de un cambio de nombre, por lo que no im
 
 [Anterior](Ch2.1.md)
 [Siguiente](Ch2.3.md)
-[Indice](README.md)
+[Indice](Ch2/Indice.md)

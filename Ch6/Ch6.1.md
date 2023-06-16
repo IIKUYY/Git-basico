@@ -18,4 +18,4 @@ GitHub utiliza los correos para notificar los `commits`, si usas varios correos,
 Finalmente por seguridad extra es necesario aplicar una autentificación de dos factores o `2FA` es util para proteger las cuentas en caso de robo de contraseña, se encuentra esta opción en la sección de seguridad  de ajustes, esto ocupa una aplicación movil o recibir un mensaje via SMS, escogiendo un metodo solo es necesario seguir los pasos dados
 
 [Siguiente](Ch6/Ch6.2.md)
-[Indice](README.md)
+[Indice](Ch6/Indice.md)

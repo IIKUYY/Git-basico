@@ -24,4 +24,4 @@ El flujo de trabajo básico de Git es algo así:
 
 [Anterior](Ch1.2.md)
 [Siguiente](Ch1.4.md)
-[Indice](README.md)
+[Indice](Ch1/Indice.md)

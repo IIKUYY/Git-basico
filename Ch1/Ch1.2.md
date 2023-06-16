@@ -9,4 +9,4 @@ En 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y l
 
 [Anterior](Ch1.1.md)
 [Siguiente](Ch1.3.md)
-[Indice](README.md)
+[Indice](Ch1/Indice.md)
