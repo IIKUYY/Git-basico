@@ -3,4 +3,4 @@ Hay herramientas originales de línea de comandos y hay muchas interfaces gráfi
 
 [Anterior](Ch13.md)
 [Siguiente](Ch1.5.md)
-[Indice](Ch1/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch1/README.md)

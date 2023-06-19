@@ -63,4 +63,4 @@ Si deseas que se instale automaticamente haz
 
 [Anterior](Ch1.4.md)
 [Siguiente](Ch1.6.md)
-[Indice](Ch1/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch1/README.md)

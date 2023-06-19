@@ -114,4 +114,4 @@ Haciendolo:
 
 [Anterior](Ch2.3.md)
 [Siguiente](Ch2.5.md)
-[Indice](Ch2/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch2/README.md)

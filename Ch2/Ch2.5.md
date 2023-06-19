@@ -129,4 +129,4 @@ origin
 
 [Anterior](Ch2.4.md)
 [Siguiente](Ch2.6.md)
-[Indice](Ch2/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch2/README.md)
