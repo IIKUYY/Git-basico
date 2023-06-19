@@ -3,7 +3,7 @@
 En adicción a las cuentas de un solo usuario, en GitHub hay algo llamado organizaciones, como las cuentas personales, las de las organizaciones tienen un `namespace` donde todos los proyectos estan alaojados, pero muchas otras cosas son diferentes, estas cuentas representan a un grupo de personas que comparten la propiedad de los proyectos, y hay muchas herramientas para manejar subgrupos de esas personas, normalmente estas cuentas pertenecen a grupos `open source` o compañias
 
 ## Bases de las organizaciones
-Una organización es muuy facil de crear, solo haz click en el boton `+` y luego en `nueva organización`, primero necesitar nombrar a tu organización, ademas de proporcionar un correo que sea el principal medio de contacto, luego de eso puedes agregar a otros co-dueños.
+Una organización es muy facil de crear, solo haz click en el boton `+` y luego en `nueva organización`, primero necesitar nombrar a tu organización, ademas de proporcionar un correo que sea el principal medio de contacto, luego de eso puedes agregar a otros co-dueños.
 Como las cuentas personales, esta es gratis mientras que quiera que sea `open source`
 Como dueño de una organización puedes hacer `forks` a tu nombre o al de la organización, asi como tambien con los repositorios puedes eligir bajo cual `namespace` alojarlos, asi como las cuentas personales, puedes personalizar tu cuenta organizacional con un avatar o lista de tus repositorios.
 
