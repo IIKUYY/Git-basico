@@ -130,7 +130,8 @@ Con suerte, esto es facil de seguir, en este `webhook` revisa cada `commit` que 
 En este caso puedes mandar un `status` ("Succes","Failure","Error"), una descripción de lo que pasa y un URL que da más información del porque y contexto, si alguien crea un nuevo `pull request` si este `webhook` esta configurado, podria ver algo como `Commit status via the API`, ademas puedes ver un pequeño `checkbox` que muestra si cumplio con la validación, esto es util para que no hagas `push` a algo a lo que no deberias.
 
 ### Octokit
-Aunque hemos hecho todo con `curl` y com simple `HTTP` aunque se pueden usar varios lenguajes como `Go`, `Objebtive-C`, `Ruby` y `.NET`.
+Hasta ahora hemos visto como hacer esto en `curl` y en `HTTP`, bastantes librerias `open source` existen para hacer este `API` más idiomatico, al dia de escribir esto, los lenguajes soportados son: `Go`, `Objective-C`, `Ruby`, y `.NET`. Puedes revisar en https://github.com/octokit mas información sobre estos, espero que estas herramientas puedan ayudarte a personalizar tu GitHub para llevar un flujo de trabajo más limpio.
+
 
 [Anterior](Ch6.4.md)
 [Indice](Ch6/Indice.md)
