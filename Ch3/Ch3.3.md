@@ -86,4 +86,4 @@ $ git push origin --delete master
 
 [Anterior](Ch2.2.md)
 [Siguiente](Ch2.4.md)
-[Indice](Ch3/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch3/README.md)

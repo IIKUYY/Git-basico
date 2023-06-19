@@ -57,4 +57,4 @@ Se usa merge para mantener un historial fiel el cual se puede revisar en cualqui
 En cambio se usa rebase para tener una idea más simple y clara de como se gestiono el proyecto y mantener una coherencia y crear un historial más facil de leer para futuros usuarios.
 
 [Anterior](Ch2.5.md)
-[Indice](Ch3/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch3/README.md)

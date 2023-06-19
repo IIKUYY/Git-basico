@@ -9,4 +9,4 @@ En 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y l
 
 [Anterior](Ch1.1.md)
 [Siguiente](Ch1.3.md)
-[Indice](Ch1/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch1/README.md)

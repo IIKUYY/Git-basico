@@ -125,4 +125,4 @@ Esto movera el dominio y movera todo con este, hasta los clones de git.
 
 [Anterior](Ch6.2.md)
 [Siguiente](Ch6.4.md)
-[Indice](Ch6/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch6/README.md)

@@ -20,4 +20,4 @@ Las organizaciones le dan a los dueños el acceso a la información sobre el que
 
 [Anterior](Ch6.3.md)
 [Siguiente](Ch6.5.md)
-[Indice](Ch6/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch6/README.md)

@@ -134,4 +134,4 @@ Hasta ahora hemos visto como hacer esto en `curl` y en `HTTP`, bastantes libreri
 
 
 [Anterior](Ch6.4.md)
-[Indice](Ch6/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch6/README.md)

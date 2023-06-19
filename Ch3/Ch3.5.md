@@ -85,4 +85,4 @@ Esto lo que hace es eliminar el apuntador del servidor, Git mantiene la informac
 
 [Anterior](Ch2.4.md)
 [Siguiente](Ch2.6.md)
-[Indice](Ch3/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch3/README.md)

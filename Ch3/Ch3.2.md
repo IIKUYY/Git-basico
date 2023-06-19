@@ -138,4 +138,4 @@ Cuando creas que has finalizado se ejecuta `git commit`
 
 [Anterior](Ch2.1.md)
 [Siguiente](Ch2.3.md)
-[Indice](Ch3/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch3/README.md)

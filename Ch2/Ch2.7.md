@@ -33,4 +33,4 @@ $ git last
 ```
 
 [Anterior](Ch2.6.md)
-[Indice](Ch2/Indice.md)
+[Indice](Chttps://github.com/IIKUYY/Git-basico/blob/main/Ch2/README.md)

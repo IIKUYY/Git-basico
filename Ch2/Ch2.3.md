@@ -176,4 +176,4 @@ Por ejemplo, si quieres ver qué commits modificaron archivos de prueba en el hi
 
 [Anterior](Ch2.2.md)
 [Siguiente](Ch2.4.md)
-[Indice](Ch2/Indice.md)
+[Indice](https://github.com/IIKUYY/Git-basico/blob/main/Ch2/README.md)
